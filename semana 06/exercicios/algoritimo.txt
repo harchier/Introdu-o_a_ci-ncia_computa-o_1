@@ -1,0 +1,3 @@
+jogada do cpu
+1º-calcula os multiplos de m + 1 até o n
+2º-a jogada do cpu deve ser = n - maior multiplo de (m + 1) > n

@@ -1,0 +1,7 @@
+n = int(input("Digite um número: "))
+i = int(input("Digite um número: "))
+j = int(input("Digite um número: "))
+contador = 0
+while (contador > n) or (contador > i) or (contador > j):
+    print(contador)
+    contador += 1
